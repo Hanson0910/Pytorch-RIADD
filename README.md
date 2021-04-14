@@ -14,12 +14,17 @@ hosted by Grand Challenge
 
 ### Update Log
 - [2021-2-28] Release the training codes
+- [2021-4-14] publish final model weights
 
 ### TODO
 - publish partial model weights
 
 ### Dataset
 https://www.kaggle.com/sssdey1702/riadd-rfmid
+
+### Model Weights
+
+https://www.kaggle.com/hanson0910/tf-efficientnet-b5-ns960
 
 ### Train Model with DDP
 
