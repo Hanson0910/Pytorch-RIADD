@@ -2,6 +2,8 @@
 This is the source code for my solution to the [RIADD (ISBI-2021)](https://riadd.grand-challenge.org/evaluation/challenge/leaderboard/)
 hosted by Grand Challenge
 
+![https://github.com/Hanson0910/Pytorch-RIADD/show-img/show-img.png]()
+
 ### Requirement
 - opencv_python==4.4.0.44
 - tqdm==4.48.2
